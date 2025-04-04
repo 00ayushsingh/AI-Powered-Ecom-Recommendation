@@ -1,4 +1,4 @@
-# Advanced E-commerce Recommendation System
+# AI based E-commerce Recommendation System
 
 A sophisticated, AI-powered recommendation engine for e-commerce platforms that combines multiple recommendation strategies, natural language processing, computer vision, and A/B testing to provide highly personalized product suggestions through various interaction methods.
 
