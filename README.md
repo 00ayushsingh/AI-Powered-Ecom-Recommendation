@@ -296,4 +296,4 @@ The system includes several visualizations to explain its inner workings:
 
 ## Contact
 
-Aayush Sharma
+Ayush Singh
