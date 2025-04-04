@@ -272,15 +272,6 @@ The system includes several visualizations to explain its inner workings:
 - **Voice Search Visualization**: Shows the speech-to-recommendations pipeline
 - **AI Assistant Visualization**: Illustrates how the conversational system works
 
-## Future Improvements
-
-- **Reinforcement Learning**: Optimize recommendations based on long-term user satisfaction
-- **Enhanced NLP**: Implement more advanced models (BERT, GPT) for complex query understanding
-- **More Advanced CV**: Product segmentation and attribute extraction from images
-- **Time-Aware Recommendations**: Capture seasonal trends and preference evolution
-- **Explainable AI**: More detailed explanation of why products are recommended
-- **Mobile Application**: Dedicated mobile app with camera integration for image search
-- **Voice Assistant Integration**: Connect with smart home devices and virtual assistants
 
 ## License
 
